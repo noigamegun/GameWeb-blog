@@ -1,3 +1,3 @@
 # GameWeb-blog
-
-Todo.
+ฺ
+Static blog stuff.
