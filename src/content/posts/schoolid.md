@@ -3,7 +3,7 @@ title = "Reverse Engineering The School's ID Card"
 date = "2025-10-31T22:06:00+07:00"
 tags = ["RFID"]
 description = "Dumping and also cloning it :p"
-draft = true
+draft = false
 +++
 
 So I was wondering if the school id can somehow be "hacked" and also RFID in general, and that made me fall into the rabbit hole of RFID stuff.
